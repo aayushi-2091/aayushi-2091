@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩‍💻Computer Science Engineering student 👩‍🎓 passionate about exploring new technologies and solving complex problems.🚀👾🐱‍💻</p>
+<p align="left">👩‍💻 Wordpress Developer 🐱‍💻 Computer Science Engineering student 👩‍🎓 passionate about exploring new technologies and solving complex problems.🚀👾🐱‍💻</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016🐛<br>📚 I'm currently learning the ins and outs of web development, diving deep into both frontend and backend technologies to craft robust and user-friendly applications💻🔰<br>🎯 Goals: To become proficient in full-stack development🧩💥<br>🎮 Hobbies: Crafting 🎨, Writing 📝, Photography 📷, Listening music 🎵</p>
+<p align="left">✨ Creating bugs since 2016🐛<br>📚 I'm currently working as a WordPress Developer, crafted 20+ websites dynamically and constant in learning of new tech, new ways of making myself better everyday💻🔰<br>🎯 Goals: To become proficient in full-stack development🧩💥<br>🎮 Hobbies: Crafting 🎨, Writing 📝, Photography 📷, Listening music 🎵</p>
 
 ###
 
@@ -19,6 +19,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -28,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
 </div>
 
@@ -51,8 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
