@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩‍💻 Wordpress Developer 🐱‍💻 Computer Science Engineering student 👩‍🎓 passionate about exploring new technologies and solving complex problems.🚀👾🐱‍💻</p>
+<p align="left">👩‍💻 Web Developer 🐱‍💻 B.Tech in Computer Science Engineering Graduate 👩‍🎓 Passionate about exploring new technologies and solving complex problems.🚀👾🐱‍💻</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016🐛<br>📚 I'm currently working as a WordPress Developer, crafted 20+ websites dynamically and constant in learning of new tech, new ways of making myself better everyday💻🔰<br>🎯 Goals: To become proficient in full-stack development🧩💥<br>🎮 Hobbies: Crafting 🎨, Writing 📝, Photography 📷, Listening music 🎵</p>
+<p align="left">✨ Creating bugs since 2016🐛<br>📚 I'm currently working as a Web Developer, crafted 20+ websites dynamically and constant in learning of new tech, new ways of making myself better everyday💻🔰<br>🎯 Goals: To become proficient in full-stack development🧩💥<br>🎮 Hobbies: Crafting 🎨, Writing 📝, Photography 📷, Listening music 🎵</p>
 
 ###
 
